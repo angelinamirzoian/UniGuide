@@ -1,4 +1,3 @@
-main
 Nor-Arevian
 patch-1
 Garbuzova
